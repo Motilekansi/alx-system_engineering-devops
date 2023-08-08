@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "letter" |rev
+#/bin/bash
+rev
